@@ -1,6 +1,6 @@
 # MovieRecommendationModel
 Movie recommendation model - Python
-logic:  every movie is a vector, and five other closest vectors will be recommende
+logic:  every movie is a vector, and five other closest vectors will be recommended
 Vector based on a bag of words (text vectorization)
 The top 5000 repeated words are chosen as dimensions, and each movie gets a vector based on this dimension
 Stop words are not used to form dimensions 
